@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/group"
+        android:title="New Group"
+        android:icon="@drawable/addgroup"/>
+    <item
+        android:id="@+id/contact"
+        android:title="contact"
+        android:icon="@drawable/support"/>
+    <item
+        android:id="@+id/calls"
+        android:title="calls"
+        android:icon="@drawable/phone"/>
+    <item
+        android:id="@+id/people"
+        android:title="people nearby"
+        android:icon="@drawable/nearby"/>
+    <item
+        android:id="@+id/seved"
+        android:title="seved messages"
+        android:icon="@drawable/saved"/>
+    <item
+        android:id="@+id/settings"
+        android:title="settings"
+        android:icon="@drawable/gear"/>
+    <item
+        android:id="@+id/invite"
+        android:title="invite friends"
+        android:icon="@drawable/adduser"/>
+    <item
+        android:id="@+id/Telegram"
+        android:title="Telegram features"
+        android:icon="@drawable/features"/>
+
+
+
+
+</menu>
